@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GitHub</title>
+</head>
+<body>
+
+<h1>BPWL</h1>
+<p>Latihan Pertama.</p>
+
+</body>
+</html>
