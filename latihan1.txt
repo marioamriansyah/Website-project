@@ -9,6 +9,7 @@
 <p>Mario Amriansyah.</p>
 <p>Muhammad Rasyid.</p>
 <p>Dicky Pratama.</p>
+<p> Di edit oleh rasyid yang tau mengedit cuman paragraf:) </p>
 
 </body>
 </html>
