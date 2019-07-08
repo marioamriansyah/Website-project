@@ -6,9 +6,10 @@
 <body>
 
 <h1>BPWL</h1>
+<p>nama kelompok :</p>
 <p>Mario Amriansyah.</p>
 <p>Muhammad Rasyid.</p>
-<p>Dicky Pratama.</p>
+<p>Diky Pratama.</p>
 <p> Di edit oleh rasyid yang tau mengedit cuman paragraf:) </p>
 
 </body>
