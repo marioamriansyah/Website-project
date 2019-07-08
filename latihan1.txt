@@ -6,7 +6,9 @@
 <body>
 
 <h1>BPWL</h1>
-<p>Latihan Pertama.</p>
+<p>Mario Amriansyah.</p>
+<p>Muhammad Rasyid.</p>
+<p>Dicky Pratama.</p>
 
 </body>
 </html>
